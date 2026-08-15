@@ -2,6 +2,8 @@
 
 **AED — Arquitetura Reativa e Event-Driven · PUC Minas / IEC**
 
+🔗 **Repositório:** https://github.com/2582390/entrega-aula-02
+
 Este repositório implementa o domínio de confirmação de pedido em um fluxo event-driven com Kafka, com um producer e um consumer idempotente em Java/Spring Boot.
 
 ## Domínio escolhido

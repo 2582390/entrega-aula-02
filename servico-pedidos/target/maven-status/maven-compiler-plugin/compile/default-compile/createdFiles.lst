@@ -1,0 +1,5 @@
+br\pucminas\aed\pedidos\PedidosApplication.class
+br\pucminas\aed\pedidos\service\PedidoService.class
+br\pucminas\aed\pedidos\controller\PedidoController$PedidoRequest.class
+br\pucminas\aed\pedidos\controller\PedidoController$ItemRequest.class
+br\pucminas\aed\pedidos\controller\PedidoController.class

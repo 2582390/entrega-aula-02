@@ -1,5 +1,7 @@
 # ADR-002 — Domínio do projeto
 
+🔗 **Repositório GitHub:** https://github.com/2582390/entrega-aula-02
+
 ## Status
 Aceita · 2026-08-16 · Equipe 01
 

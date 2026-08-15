@@ -1,5 +1,7 @@
 # Folha de rosto — Entrega Aula 02
 
+🔗 **Repositório GitHub:** https://github.com/2582390/entrega-aula-02
+
 ## O que foi feito nesta etapa
 - ADR-002: definição do domínio em [docs/adr/ADR-002-dominio-do-projeto.md](docs/adr/ADR-002-dominio-do-projeto.md).
 - Implementação do publisher/consumer no domínio de confirmação de pedido, com CloudEvents nos cabeçalhos e payload em JSON neutro.

@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: servico-pedidos
+  kafka:
+    bootstrap-servers: localhost:19092
+    producer:
+      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+    # Jackson configurado para usar ISO-8601 nas datas
+    json:
+      trusted-packages: "*"
+      type-mappings: "evento:br.pucminas.aed.pedidos.domain.PedidoConfirmadoEvent"
+
+server:
+  port: 8080
+  servlet:
+    context-path: /
+
+logging:
+  level:
+    root: INFO
+    br.pucminas.aed: DEBUG
+    org.springframework.kafka: WARN
