@@ -59,8 +59,6 @@ curl.exe -s -w "`nHTTP %{http_code}`n" -X POST localhost:8080/pedidos/confirmado
 
 ## Dados da equipe
 
-- Líder: preencher nome e matrícula
-- Integrantes: preencher nomes e matrículas
-- Repositório: preencher a URL pública do GitHub
+- Líder: Jhonathan Carvo   -  Matricula - 2582390
 
 > Este README deve ser atualizado com os dados finais da equipe antes da entrega oficial no repositório público e no Canvas.
