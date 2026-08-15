@@ -1,0 +1,7 @@
+br\pucminas\aed\estoque\domain\ItemDoPedidoVO.class
+br\pucminas\aed\estoque\domain\PedidoConfirmadoEvent.class
+br\pucminas\aed\estoque\EstoqueApplication.class
+br\pucminas\aed\estoque\controller\EstoqueListener.class
+br\pucminas\aed\estoque\service\EstoqueService.class
+br\pucminas\aed\estoque\service\EstoqueRepository.class
+br\pucminas\aed\estoque\service\ModoDaDemo.class
